@@ -1,0 +1,8 @@
+﻿## Interface: 50400
+## Title: |cff00dd91E|r|cffe5e3e3lvUI|r |cff00dd91M|r|cffe5e3e3inimap|r |cff00dd91B|r|cffe5e3e3uttons|r
+## Author: Pinya, Bunny
+## Version: 1.01
+## RequiredDeps: ElvUI
+
+locales\load_locales.xml
+ElvUI_MinimapButtons.lua
