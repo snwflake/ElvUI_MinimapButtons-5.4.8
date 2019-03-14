@@ -186,7 +186,8 @@ local IgnoreButtons = {
 	"MinimapZoneTextButton",
 	"MinimapZoomIn",
 	"MinimapZoomOut",
-	"TimeManagerClockButton"
+	"TimeManagerClockButton",
+    "QueueStatusMinimapButton"
 }
 
 local GenericIgnores = {
